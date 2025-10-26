@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "CARE Lab Context Phrases",
+  "title": "Lab Context Phrases",
   "type": "object",
   "required": [
     "greetings",
