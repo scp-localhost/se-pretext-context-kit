@@ -1,4 +1,4 @@
-# Temple University CARE Lab — Safe, non-actionable context phrases
+#Safe, non-actionable context phrases
 
 CONTEXT_PHRASES = {
     "greetings": ["Hello", "Hi", "Good morning", "Good afternoon"],
@@ -7,7 +7,7 @@ CONTEXT_PHRASES = {
         "Do you have a moment to talk?",
         "Is now a good time to speak?",
         "I am calling to discuss [SCOPE]. Do you have a moment?",
-        "My records show [FLAG] (metadata). Would you mind confirming whether the non-sensitive details we have are current?",
+        "My records on [FLAG] and outdated (metadata). Would you mind confirming whether the non-sensitive details we have are current?",
         "Thanks for taking a moment — how are you doing today?",
         "I appreciate your time. How's your day going?",
         "If you have a minute, could you tell me a bit about [TOPIC_PLACEHOLDER]?",
