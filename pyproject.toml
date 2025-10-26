@@ -1,0 +1,6 @@
+[project]
+name = "carelab-context-tokens"
+version = "0.1.0"
+description = "Safe, non-actionable conversation scaffolding for IRB-approved studies"
+requires-python = ">=3.9"
+dependencies = ["jsonschema>=4.22"]
